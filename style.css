@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100%;
+}
+.header{
+    width: 100%;
+    background-color: black;
+    height: 70px;
+}
+.header p{
+    color: white;
+    margin-left: 60px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.box1{
+    background-color: #1a1c1b;
+    height: 588px;
+    width: 250px;
+    float: left;
+}
+.fa-user{
+    margin-left: 55px;
+    padding: 20px;
+    color: white;
+}
+.p1{
+    text-align: center;
+    size: 20px;
+    color: white;
+    margin-bottom: 30px;
+}
+.icons{
+    color: white;
+    padding: 10px;
+    margin-bottom: 30px;
+    font-style: normal;
+}
+.box2{
+    float: left;
+}
+.home{
+    background-color: rgb(29, 85, 85);
+    height: 20px;
+    width: 70px;
+    padding: 20px;
+    color: white;
+    margin-bottom: 30px;
+}
+.form{
+    margin-bottom: 50px;
+}
+.content{
+    width: 940px;
+    font-size: 30px;
+}
+.name{
+    font-size: 20px;
+    margin-left: 70px;
+    font-weight: bold;
+}
